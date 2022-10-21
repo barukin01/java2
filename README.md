@@ -1,2 +1,3 @@
 # java2
-![srcreenshot](screenshot.npg)
+![srcreenshot](2.jpeg)
+![srcreenshot](3.jpeg)
